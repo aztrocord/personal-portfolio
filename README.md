@@ -8,10 +8,12 @@ The tech stack used is HTML and CSS, and the project boasts a simple but elegant
 
 ## Website Structure
 ![Portfolio Website Sitemap](./docs/Portfolio_Sitemap.jpg)
+
 The overview of the portfolio website is as shown above. The homepage of the portfolio website features a navigation bar to various parts of the project.
 
 ## Portfolio Website Wireframes
 ![Portfolio Homepage Wireframe](./docs/Portfolio_Homepage_Wireframes.PNG)
+
 For the portfolio website, I deliberately made the conscious decision to focus on the website's accessibility. The inspiration for the interface was Spotify and Linktree, which both emphasize simplicity in color and user experience, making their respective products easy to use and understand. The main points of this design is the rounded shape of items, the navigation bar and use of "white space".
 
 ![Portfolio Homepage Wireframe](./docs/Detailed_Mockups.PNG)

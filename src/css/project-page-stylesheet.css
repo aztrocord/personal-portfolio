@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black; 
+    font-family: 'Inter';
+    margin: 0;
+    padding: 0;
+}
+
+#yellow-container {
+    height: 98vh;
+    width: 100%;
+    background-color: #fedc32;
+    border: 10px solid #fedc32;
+}
+
+header {
+    text-align: center;
+    font-size: 35px;
+}
+
+#name {
+    font-weight: bold; 
+}
+
+nav button {
+    background-color: #262626;
+    border: none;
+    color: white;
+    width: 200px;
+    height: 68px;
+    font-size: 25px;
+    border-radius: 25px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 15%;
+    justify-content: space-around;
+}
+
+footer p {
+    font-size: 35px;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: -1px;
+    border-bottom: 3px solid black;
+    font-weight: bold;
+}
+
+.project-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10%;
+    width: 20%;
+}
+
+.project-title {
+    font-weight: bold;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+.projects {
+    border: 1px solid red;
+}
+
+@media (max-width: 400px) and (max-width: 829px){
+    nav button {
+        background-color: #262626;
+        border: none;
+        color: white;
+        width: 94px;
+        height: 70px;
+        font-size: 25px;
+        border-radius: 25px;
+    }
+    
+    nav {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        height: 15%;
+        justify-content: space-around;
+    }
+}
+@media (min-width: 830px) and (max-width: 1439px) {
+    .project-title {
+        font-weight: bold;
+    }
+    
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+        align-items: center;
+        font-size: 25px
+    }
+    .projects {
+        border: 1px solid red;
+    }
+}
