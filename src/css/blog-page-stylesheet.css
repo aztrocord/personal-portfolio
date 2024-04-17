@@ -56,9 +56,36 @@ main article {
     width: 50%
 
 }
-@media (max-width: 400px) and (max-width: 829px){
-
+@media (min-width: 400px) and (max-width: 829px){
+    nav button {
+        background-color: #262626;
+        border: none;
+        color: white;
+        width: 100px;
+        height: 68px;
+        font-size: 25px;
+        border-radius: 25px;
+    }
+    main article {
+        padding: 20px;
+        border: 2px solid black;
+        width: 80%
+}
 }
 @media (min-width: 830px) and (max-width: 1439px) {
-    
+    nav button {
+        background-color: #262626;
+        border: none;
+        color: white;
+        width: 150px;
+        height: 68px;
+        font-size: 25px;
+        border-radius: 25px;
+    }
+    main article {
+        padding: 20px;
+        border: 2px solid black;
+        width: 90%;
+        font-size: 35px
+}
 }

@@ -49,7 +49,7 @@
         font-weight: bold;
     }
 
-@media (max-width: 400px) and (max-width: 829px){
+@media (min-width: 400px) and (max-width: 829px){
     main {
         display: none;
       }
@@ -149,10 +149,8 @@
         display: inline-block;
     }
     #blog-embed {
-        margin-left: 50px;
-        margin-top: 40px;
         width: 50%;
-        height: 50%;
+        height: 100%;
     }
     #selfie {
         margin-left: 30px

@@ -74,7 +74,7 @@ label {
 button[type='submit'] {
     display: block
 }
-@media (max-width: 400px) and (max-width: 829px){
+@media (min-width: 400px) and (max-width: 829px){
     nav button {
         background-color: #262626;
         border: none;
