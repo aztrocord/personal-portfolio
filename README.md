@@ -29,3 +29,5 @@ While designing the project, I came up with more detailed mockups for portfolio.
 I was also inspired by LinkedIn and various resumes from people like Jake Gutierrez, who segment their skills into different categories on resume and place the skills they know in a thorough format. My reasoning for the overall design of my Portfolio Work History page is that the format of Jack's resume is commonly used in many high quality engineering resumes, and therefore is a strong choice for appealing to employers, as it has had a proven record.
 
 ![Portfolio Blog Wireframe](./docs/Portfolio_Blog_Wireframes.PNG)
+
+![Portfolio Contact Wireframe](./docs/Portfolio_Contact_Page_Wireframes.PNG)
