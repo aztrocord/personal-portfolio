@@ -16,7 +16,7 @@ The overview of the portfolio website is as shown above. The homepage of the por
 
 ![Portfolio Homepage Wireframe](./docs/Portfolio_Homepage_Wireframes.PNG)
 
-For the portfolio website, I deliberately made the conscious decision to focus on the website's accessibility. The inspiration for the interface was Spotify and Linktree, which both emphasize simplicity in color and user experience, making their respective products easy to use and understand. The main points of this design is the rounded shape of items, the navigation bar and use of "white space". I wanted to make someone that would be familar to the users.
+For the portfolio website, I deliberately made the conscious decision to focus on the website's accessibility. The inspiration for the interface was Spotify and Linktree, which both emphasize simplicity in color and user experience, making their respective products easy to use and understand. The main points of this design is the rounded shape of items, the navigation bar and use of "white space". I wanted to make something that would be familar to the users.
 
 ![Portfolio Homepage Wireframe](./docs/Detailed_Mockups.PNG)
 
