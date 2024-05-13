@@ -2,9 +2,9 @@
 
 [Github Repo](https://github.com/aztrocord/personal-portfolio)
 
-This project was written by Branden Chiem, for the purpose of being used as a professional portfolio that is easily accessible to employers.
+This project was written for the purpose of being used as a professional portfolio that is easily accessible to employers.
 
-The tech stack used is HTML and CSS, and the project boasts a simple but elegantly formated header and navigation bar to personal projects, a work history and contacts page and a personal blog.
+The project is implemented solely with a tech stack of HTML and CSS, and the project boasts a simple but elegantly formated header and navigation bar to personal projects, a work history and contacts page and a personal blog.
 
 ## Website Structure
 
