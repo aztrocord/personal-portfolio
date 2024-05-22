@@ -79,8 +79,8 @@ button[type='submit'] {
         background-color: #262626;
         border: none;
         color: white;
-        width: 95px;
-        height: 68px;
+        width: 20vh;
+        height: 10vh;
         font-size: 25px;
         border-radius: 25px;
     }
@@ -103,10 +103,20 @@ button[type='submit'] {
         width: 100%
     }
 }
-@media (min-width: 830px) and (max-width: 1439px) {
+@media (min-width: 830px) {
+    nav button {
+        background-color: #262626;
+        border: none;
+        color: white;
+        width: 24vh;
+        height: 10vh;
+        font-size: 25px;
+        border-radius: 25px;
+    }
     form {
         border: 2px solid black;
         padding: 50px;
+        border-radius: 20px;
     }
     label {
         display: block;
