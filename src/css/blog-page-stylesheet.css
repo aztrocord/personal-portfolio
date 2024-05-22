@@ -53,10 +53,16 @@ main {
 main article {
     padding: 20px;
     border: 2px solid black;
-    width: 50%
+    width: 50%;
+    border-radius: 20px;
 
 }
 @media (min-width: 400px) and (max-width: 829px){
+    /* header p {
+        font-size: 25px;
+    }
+    header isn't adjusting to responsive design properly :/
+    */
     nav button {
         background-color: #262626;
         border: none;
@@ -72,13 +78,13 @@ main article {
         width: 80%
 }
 }
-@media (min-width: 830px) and (max-width: 1439px) {
+@media (min-width: 830px) {
     nav button {
         background-color: #262626;
         border: none;
         color: white;
-        width: 150px;
-        height: 68px;
+        width: 25vh;
+        height: 10vh;
         font-size: 25px;
         border-radius: 25px;
     }
