@@ -96,7 +96,16 @@ main {
         justify-content: space-around;
     }
 }
-@media (min-width: 830px) and (max-width: 1439px) {
+@media (min-width: 830px) {
+    nav button {
+        background-color: #262626;
+        border: none;
+        color: white;
+        width: 25vh;
+        height: 10vh;
+        font-size: 25px;
+        border-radius: 25px;
+    }
     .project-title {
         font-weight: bold;
     }
