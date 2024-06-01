@@ -117,6 +117,7 @@ button[type='submit'] {
         border: 2px solid black;
         padding: 50px;
         border-radius: 20px;
+        width: 50vh
     }
     label {
         display: block;

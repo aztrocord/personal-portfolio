@@ -58,8 +58,24 @@ article {
     font-size: 20px
 }
 @media (min-width: 400px) and (max-width: 829px){
-    
+    nav button {
+        background-color: #262626;
+        border: none;
+        color: white;
+        width: 25vh;
+        height: 10vh;
+        font-size: 25px;
+        border-radius: 25px;
+    }
 }
-@media (min-width: 830px) and (max-width: 1439px) {
-    
+@media (min-width: 830px) {
+    nav button {
+        background-color: #262626;
+        border: none;
+        color: white;
+        width: 25vh;
+        height: 10vh;
+        font-size: 25px;
+        border-radius: 25px;
+    }
 }
