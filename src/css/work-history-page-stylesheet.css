@@ -69,8 +69,8 @@ li {
         background-color: #262626;
         border: none;
         color: white;
-        width: 95px;
-        height: 68px;
+        width: 15vh;
+        height: 10vh;
         font-size: 25px;
         border-radius: 25px;
     }
@@ -82,12 +82,28 @@ li {
         height: 15%;
         justify-content: space-around;
     }
+    .overall-work-history-container {
+        width: 75vh
+    }
 }
-@media (min-width: 830px) and (max-width: 1439px) {
+@media (min-width: 830px) {
+    nav button {
+        background-color: #262626;
+        border: none;
+        color: white;
+        width: 25vh;
+        height: 10vh;
+        font-size: 25px;
+        border-radius: 25px;
+    }
     p {
         font-size: 25px;
     }
     #job-position {
         display: inline;
     }
+    .overall-work-history-container {
+        width: 75vh
+    }
+    
 }
