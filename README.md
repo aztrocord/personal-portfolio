@@ -14,16 +14,17 @@ The overview of the portfolio website is as shown above. The homepage of the por
 
 ## Portfolio Website Wireframes
 
+![Portfolio Work History Wireframe](./docs/Portfolio_Work_History_Wireframes.PNG)
+
+![Portfolio Contact Wireframe](./docs/Portfolio_Contact_Page_Wireframes.PNG)
+
+![Portfolio Projects Wireframe](./docs/Portfolio_Projects_Wireframes.PNG)
+
+![Portfolio Blog Wireframe](./docs/Portfolio_Blog_Wireframes.PNG)
+
 ![Portfolio Homepage Wireframe](./docs/Portfolio_Homepage_Wireframes.PNG)
 
 ![Portfolio Homepage Wireframe](./docs/Detailed_Mockups.PNG)
 
-![Portfolio Projects Wireframe](./docs/Portfolio_Projects_Wireframes.PNG)
 
-![Portfolio Work History Wireframe](./docs/Portfolio_Work_History_Wireframes.PNG)
-
-![Portfolio Blog Wireframe](./docs/Portfolio_Blog_Wireframes.PNG)
-
-![Portfolio Contact Wireframe](./docs/Portfolio_Contact_Page_Wireframes.PNG)
-
-
+## References
