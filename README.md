@@ -16,15 +16,22 @@ The overview of the portfolio website is as shown above. The homepage of the por
 
 ![Portfolio Work History Wireframe](./docs/Portfolio_Work_History_Wireframes.PNG)
 
-![Portfolio Contact Wireframe](./docs/Portfolio_Contact_Page_Wireframes.PNG)
-
 ![Portfolio Projects Wireframe](./docs/Portfolio_Projects_Wireframes.PNG)
+
+![Portfolio Contact Wireframe](./docs/Portfolio_Contact_Page_Wireframes.PNG)
 
 ![Portfolio Blog Wireframe](./docs/Portfolio_Blog_Wireframes.PNG)
 
 ![Portfolio Homepage Wireframe](./docs/Portfolio_Homepage_Wireframes.PNG)
 
-![Portfolio Homepage Wireframe](./docs/Detailed_Mockups.PNG)
+![Portfolio Detailed Homepage Wireframe](./docs/Detailed_Mockups.PNG)
 
+## Inspirations
+
+![Spotify Inspiration](./docs/Spotify-Preview-On-Home_Music.webp)
+
+![LinkTree Inspiration](./docs/linktree-free-vs-pro.jpg)
 
 ## References
+
+* Figma (2024). Resource Library — Design Basics. [online] Figma.com. Available at: [Link to Resource Library](https://www.figma.com/resource-library/design-basics/).
