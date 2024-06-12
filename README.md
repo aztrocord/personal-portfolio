@@ -4,7 +4,7 @@
 
 This project was written for the purpose of being used as a professional portfolio that is easily accessible to employers.
 
-The project is implemented solely with a tech stack of HTML and CSS, and the project boasts a simple but elegantly formated header and navigation bar to personal projects, a work history and contacts page and a personal blog. The design of various parts of the site is loosely inspired by LinkedIn, LinkTree and Spotify.
+The project was implemented solely with a tech stack of HTML and CSS, and the project boasts a simple but elegantly formatted header and navigation bar to personal projects, a work history and contacts page and a personal blog. The design of various parts of the site is loosely inspired by LinkedIn, LinkTree and Spotify.
 
 ## Website Structure
 

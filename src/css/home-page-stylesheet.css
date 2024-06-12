@@ -53,6 +53,16 @@
     main {
         display: none;
       }
+    nav button {
+        background-color: #262626;
+        border: none;
+        color: white;
+        width: 25vh;
+        height: 15vh;
+        font-size: 35px;
+        border-radius: 25px;
+    }
+    
 }
   
 @media (min-width: 830px) and (max-width: 1439px) {
@@ -84,8 +94,8 @@
         background-color: #262626;
         border: none;
         color: white;
-        width: 487px;
-        height: 110px;
+        width: 30vh;
+        height: 15vh;
         font-size: 35px;
         border-radius: 25px;
     }
@@ -96,6 +106,7 @@
         /* border: 10px solid red; */
         height: 45%;
         justify-content: space-around;
+        gap: 2%
     }
     main {
         display: none;
@@ -132,8 +143,8 @@
         background-color: #262626;
         border: none;
         color: white;
-        width: 250px;
-        height: 110px;
+        width: 25vh;
+        height: 10vh;
         font-size: 35px;
         border-radius: 25px;
     }
