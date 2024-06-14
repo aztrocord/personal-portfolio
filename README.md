@@ -35,3 +35,4 @@ The overview of the portfolio website is as shown above. The homepage of the por
 ## References
 
 * Figma (2024). Resource Library — Design Basics. [online] Figma.com. Available at: [Link to Resource Library](https://www.figma.com/resource-library/design-basics/).
+* MDN Web Docs (2024). CSS Layout - Responsive Design. [online] developer.mozilla.org Available at: [Link to Resource Library](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design).
