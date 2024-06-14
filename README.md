@@ -1,6 +1,6 @@
 # Personal-Portfolio-Website
 
-[Github Repo](https://github.com/aztrocord/personal-portfolio)
+[Github Repo](https://github.com/duskpeyl/Personal-Portfolio-Website)
 
 This project was written for the purpose of being used as a professional portfolio that is easily accessible to employers.
 
@@ -32,7 +32,6 @@ The overview of the portfolio website is as shown above. The homepage of the por
 
 ![LinkTree Inspiration](./docs/linktree-free-vs-pro.jpg)
 
-## References
-
+## References 
 * Figma (2024). Resource Library — Design Basics. [online] Figma.com. Available at: [Link to Resource Library](https://www.figma.com/resource-library/design-basics/).
 * MDN Web Docs (2024). CSS Layout - Responsive Design. [online] developer.mozilla.org. Available at: [Link to Resource Library](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design).
