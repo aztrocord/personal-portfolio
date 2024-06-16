@@ -12,8 +12,6 @@ The content of the site was written with responsive design in mind and conforms 
 
 ![Portfolio Website Sitemap](./docs/Portfolio_Sitemap.jpg)
 
-The overview of the portfolio website is as shown above. The homepage of the portfolio website features a navigation bar to various parts of the project.
-
 ## Portfolio Website Wireframes
 
 ![Portfolio Work History Wireframe](./docs/Portfolio_Work_History_Wireframes.PNG)
