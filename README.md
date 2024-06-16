@@ -2,9 +2,11 @@
 
 [Github Repo](https://github.com/duskpeyl/Personal-Portfolio-Website)
 
-This project was written for the purpose of being used as a professional portfolio that is easily accessible to employers.
+This project was written for the purpose of being used as a professional portfolio that is easily accessible to employers and was implemented solely with a tech stack of HTML and CSS.
 
-The project was implemented solely with a tech stack of HTML and CSS, and the project boasts a simple but elegantly formatted header and navigation bar to personal projects, a work history and contacts page and a personal blog. The design of various parts of the site is loosely inspired by LinkedIn, LinkTree and Spotify.
+The project boasts a simple but elegantly formatted header and navigation bar to personal projects, a work history and contacts page and a personal blog. The design of various parts of the website was loosely inspired by LinkedIn, LinkTree and Spotify.
+
+The content of the site was written with responsive design in mind and conforms to screen sizes on mobile, tablet and desktop.
 
 ## Website Structure
 
