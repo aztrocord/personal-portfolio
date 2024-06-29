@@ -12,6 +12,8 @@ The content of the site was written with responsive design in mind and conforms 
 
 ![Portfolio Website Sitemap](./docs/Portfolio_Sitemap.jpg)
 
+The structure of the personal portfolio website is as shown above.
+
 ## Portfolio Website Wireframes
 
 ![Portfolio Work History Wireframe](./docs/Portfolio_Work_History_Wireframes.PNG)
